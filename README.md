@@ -1,2 +1,1 @@
-# test
-Test repository with README file template for WIX
+# How to write an awesome README text file for WIX developers
